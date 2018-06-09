@@ -35,7 +35,7 @@ Copy the files inside the folder to your_site/wp-content/plugins/wp-e-commerce/w
 
 * Edit Display Name if desired.
 
-* Enter the API KEY provided by Jeeb.
+* Enter the API KEY provided by Agate.
 
 * Input a URL to redirect customers after they have paid the invoice (Transaction Results page, Your Account page, etc.)
 
