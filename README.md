@@ -45,3 +45,8 @@ Copy the files inside the folder to your_site/wp-content/plugins/wp-e-commerce/w
 
 - Once the configuration is done, whenever a buyer selects Agate as their payment method a invoice will be generated in agate.services.
 - Then they will be redirected to a payment page where there can pay the invoice.
+
+Try How It Works ?
+====================
+
+We have created a demo website for you to test the plugin, feel free to visit [here]http://www.agate.services/ecommerce/products-page/) . For checkout visit [cart](http://www.agate.services/ecommerce/products-page/checkout/) .
