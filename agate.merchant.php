@@ -65,11 +65,7 @@ function form_agate()
 
         // Load table storing the tokens
         $table_name = $wpdb->prefix.'agate_keys';
-
-        // Load the tokens paired by the current user.
-        // $tablerows1 = $wpdb->get_results("SELECT * FROM {$table_name} WHERE `user_id` = {$user_id}");
-
-
+        
         $rows = array();
 
         $api_key = get_option("api_key");
@@ -153,6 +149,7 @@ function submit_agate()
     }
 }
 
+// Convert the currency to iUSD
 function convertCurToIUSD($url, $amount, $api_key, $currencySymbol) {
     debug_log("Entered into Convert amount");
     debug_log($url.'?api_key='.$api_key.'&currency='.$currencySymbol.'&amount='. $amount);
