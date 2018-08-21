@@ -13,7 +13,7 @@ You must have a Agate API KEY to use this plugin.  It's free visit [here](http:/
 - Download WP eCommerce plugin from the WordPress Plugin Directory: https://wordpress.org/plugins/wp-e-commerce/. 
 - Extract the contents of the zip file to the [wordpress main directory]/wp-content/plugins/ directory.
 - Log in to your Wordpress and navigate to the Admin dashboard -> Plugins -> Installed Plugins
-- Activate WP eCommerce plugin
+- Activate WP eCommerce plugin.
 
 ## Installation of the Agate plugin for WordPress (WP) eCommerce
 
